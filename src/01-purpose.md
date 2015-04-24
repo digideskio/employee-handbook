@@ -2,12 +2,12 @@
 Zinc exists for three reasons:
 
 * To demonstrate that work cultures of learning, trust, respect, empathy,
-  collective ownership, and social compassion  are not incompatible with
+  collective ownership, inclusion and social compassion are not incompatible with
   running a successful business.
-* To provide gainful employ for those who struggle to find work in the existing
+* To provide gainful tech employment for those who struggle to find work in the existing
   hiring landscape.
-* To build our employees agency and opportunity by providing financial
-  stability, strenghtening their skills, and time and funding to create
+* To build our employees' agency and opportunities by providing financial
+  stability and professional development, as well as the time and funding to create
   businesses of their own.
 
 ## Our Vision
